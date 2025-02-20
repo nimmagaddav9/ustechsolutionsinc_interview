@@ -1,0 +1,105 @@
+Sr UI Developer - ADP
+
+1. Can you explain your experience working with Angular, React, or StencilJS?
+
+Answer: "I have extensive experience working with Angular and React in my previous roles. 
+For Angular, I've worked on creating complex single-page applications (SPAs) using Angular 6+ and 
+utilized RxJS for handling asynchronous data streams. 
+In React, I've used both class components and functional components with hooks to create dynamic, reusable UI components. 
+I've also dabbled with StencilJS for building reusable web components in an efficient and scalable manner. 
+These experiences helped me get a solid grasp of TypeScript, JavaScript ES6+, and component-driven architecture."
+
+
+2. How do you ensure that your code is of high quality?
+
+Answer: "I ensure high code quality by adhering to industry best practices such as writing clean, 
+maintainable code with proper naming conventions and code documentation. 
+I focus on writing modular code that promotes reusability. 
+Additionally, I use automated testing frameworks such as Jasmine or Jest for unit and integration testing, 
+ensuring that my code passes rigorous quality checks before it’s deployed. 
+I also make use of linting tools to catch potential issues early and perform peer reviews to maintain code quality within the team."
+
+
+3. What is your experience with testing frameworks like Jasmine, Karma, or Jest?
+
+Answer: "I've worked extensively with Jest for unit testing in my previous roles. 
+I use Jest to write test cases for components and services, ensuring they behave as expected. 
+I've also used Jasmine in combination with Karma in Angular projects to run unit tests within the browser. 
+In both frameworks, I emphasize writing comprehensive test cases that cover edge cases, 
+and I also implement mock services for testing components that interact with external APIs."
+
+
+4. How do you approach building responsive and mobile-first designs?
+
+Answer: "Building responsive applications is something I always prioritize. 
+I use CSS3 media queries to ensure that the layout adapts to various screen sizes. 
+I also rely on Flexbox and Grid for more complex layouts, which makes building responsive structures easier. 
+For mobile-first design, I start by designing the UI for mobile devices and gradually scale up to larger screen sizes. 
+I ensure that all elements are easily navigable and perform well across all devices, optimizing the user experience for both 
+desktop and mobile users."
+
+
+5. Can you explain your experience with working on web applications that interface with backend systems via REST APIs?
+
+Answer: "In my previous roles, I’ve worked on several web applications that interact with enterprise backend systems through RESTful APIs. 
+I have used Angular's HttpClient to make asynchronous API calls and handle the responses. 
+I ensure proper error handling and use RxJS to manage data streams. 
+On the client side, I focus on ensuring efficient data handling and smooth user experience, 
+while on the server side, I collaborate with backend teams to define the API contracts and ensure data flows seamlessly between
+frontend and backend systems."
+
+6. How do you handle asynchronous data flow in your applications?
+
+Answer: "For managing asynchronous data flow, I typically use RxJS in Angular applications. 
+RxJS allows me to manage multiple asynchronous data streams with operators like map, mergeMap, and switchMap. 
+I use observables for handling data from APIs, user inputs, and other sources, which helps me avoid callback hell and 
+improve code readability. I also make use of subjects in RxJS to handle events and data changes across components in a more 
+declarative way."
+
+
+7. Describe a challenging project you've worked on and how you solved it.
+Answer: "In one of my previous projects, I was tasked with building a highly dynamic, data-intensive application that needed to 
+pull information from multiple enterprise APIs and display it in real-time. The challenge was ensuring that the application could 
+handle large amounts of data without degrading performance. To solve this, I implemented lazy loading for components, optimized API
+calls by caching results when appropriate, and used RxJS for better state management. 
+I also worked closely with the backend team to ensure the APIs were optimized for our needs, which resulted in a significant
+improvement in performance and user experience."
+
+
+8. What is your experience with CSS preprocessors like SASS or LESS?
+Answer: "I have used both SASS and LESS extensively in my previous projects. 
+I prefer using SASS for its powerful features like variables, mixins, and nesting, which allow me to write more modular and 
+maintainable stylesheets. I also use SASS for creating a consistent design system by defining global variables for colors, spacing,
+and typography. This helps to ensure consistency across the project while making it easier to maintain the styles in large codebases."
+
+
+9. Can you describe a time when you had to experiment with a new technology or framework? How did you approach it?
+
+Answer: "In my last project, we needed to integrate a new framework, StencilJS, to build web components. 
+I had no prior experience with StencilJS, but I approached it by reading the documentation, exploring community examples, and 
+working on small proof-of-concept projects. I also collaborated with other engineers who had experience with StencilJS. 
+I was able to quickly get up to speed and contribute to the main project. 
+This experience reinforced my belief in constantly experimenting with new technologies to stay at the forefront of the field."
+
+
+10. How do you prioritize and manage tasks in an agile development environment?
+Answer: "In an agile environment, I rely heavily on collaboration and communication with my team. 
+I participate in daily standups, sprint planning, and retrospectives to ensure everyone is aligned.
+When prioritizing tasks, I focus on business needs and user impact. I break down larger tasks into smaller, manageable chunks and 
+ensure that I am regularly delivering incremental value. I also leverage tools like Jira to track progress and manage time effectively."
+
+
+11. How do you ensure that your development work aligns with the overall product vision and roadmap?
+Answer: "To ensure alignment with the product vision, I make sure to participate in regular product meetings with stakeholders, 
+including product managers, designers, and other engineers. I ask clarifying questions to understand the goals behind features,
+and I work closely with the team to ensure we are executing within the constraints of the roadmap. 
+Additionally, I continuously review the requirements and iterate on features, ensuring we’re delivering high-quality results that
+move the product forward."
+
+
+12. How do you ensure your applications are optimized for performance?
+Answer: "Performance optimization is key to providing a smooth user experience. 
+I focus on several key areas, including lazy loading modules and components, optimizing images, minifying CSS and JavaScript, 
+and leveraging browser caching. I also make use of the Angular Change Detection strategy to reduce unnecessary re-renders and 
+fine-tune how and when data is loaded. I regularly use tools like Chrome DevTools to monitor performance bottlenecks and adjust 
+accordingly."
